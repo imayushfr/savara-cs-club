@@ -42,13 +42,13 @@ body {
 
 button {
   padding: 8px;
-  background: #3b82f6;
-  color: #3b82f6; /* BUG */
+  background: #ffffff;
+  color: #000000; /* BUG */
 }
 
 button:hover {
   background: white;
-  color: white;
+  color: rgb(43, 0, 255);
 }
 
 .center-box {
